@@ -1,3 +1,9 @@
+# Troy Schluessler's First CS193 Homework
+
+- CS 193 will teach us about **applicable** tools for future CS courses and the workforce.
+- CS 193 is taught by CS students that are on our level, and know the classes we'll have to take.
+- The class is only 1 credit hour, with an optional PSO!
+
 **## Welcome to GitHub Pages**
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
